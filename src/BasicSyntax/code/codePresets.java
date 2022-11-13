@@ -7,6 +7,7 @@ public class codePresets {
         Scanner scanner = new Scanner(System.in);
         int xx = Integer.parseInt(scanner.nextLine());
         String xxx = scanner.nextLine();
+        double x = Double.parseDouble(scanner.nextLine());
 
     }
 }
